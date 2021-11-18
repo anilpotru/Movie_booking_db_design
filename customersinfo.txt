@@ -1,0 +1,6 @@
+#customer details
+1,steph123,Steph@123
+2,smith456,Smith@456
+3,james12,JamesPW
+4,clay45,clayMurr
+5,hanna13,Hanna@123
